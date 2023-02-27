@@ -1,0 +1,14 @@
+{
+  "name": "sameBlock",
+  "type": "package",
+  "blockId": "zJKwifsD56h-LZODP3hbR",
+  "source": {
+    "https": "https://github.com/devthalal/cartTest_sameBlock",
+    "ssh": "git@github.com:devthalal/cartTest_sameBlock.git"
+  },
+  "supportedAppblockVersions": [
+    [
+      "1.0.0"
+    ]
+  ]
+}
